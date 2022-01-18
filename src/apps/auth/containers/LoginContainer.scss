@@ -1,0 +1,56 @@
+.main {
+  display: flex;
+  justify-content: center;
+}
+
+form {
+  .buttonSignin {
+    background: linear-gradient(105.63deg, #36998b 39.07%, #17c981 96.81%);
+    box-shadow: 0px 8px 16px rgba(21, 206, 117, 0.32);
+    border-radius: 30px;
+    margin-top: 55px;
+    font-size: 18px;
+    font-weight: bold;
+    text-transform: none;
+    // line-height: 42px;
+    // height: 56px;
+    // width: 413px;
+  }
+}
+.logo {
+  margin: 35px;
+}
+.containerLogin {
+  background: #ffffff;
+  box-shadow: -12px -19px 44px rgba(23, 201, 129, 0.1),
+    16px 38px 48px rgba(21, 206, 117, 0.15);
+  border-radius: 5px;
+  position: absolute;
+  min-height: 60%;
+  // left: 35.62%;
+  // right: 35.62%;
+  // top: 24.66%;
+  // bottom: 21.31%;
+}
+.logo {
+  display: flex;
+  justify-content: center;
+}
+.headerText {
+  font-size: 40px;
+  font-weight: bold;
+}
+.logoFoter {
+  position: absolute;
+  left: 42.66%;
+  right: 42.66%;
+  top: 89.02%;
+  bottom: 5.17%;
+}
+.loginText {
+  font-size: 14px;
+}
+.input {
+  background: #f7f7fa;
+  border-radius: 6px;
+}

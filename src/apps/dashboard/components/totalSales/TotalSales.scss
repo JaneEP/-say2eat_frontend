@@ -1,0 +1,60 @@
+.total-sales-container {
+  border-radius: 20px;
+}
+.value-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.total-sales-block {
+  display: flex;
+  flex-direction: row;
+}
+.numbers-block {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.order-size {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+}
+.total-orders {
+  margin: 0 auto;
+}
+.order-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-end;
+}
+.total-sales-sum {
+  font-weight: bold;
+  font-size: 38px;
+}
+.rectangle {
+  margin-left: 30px;
+}
+.rectangleOrange {
+  margin-left: 120px;
+}
+.procent {
+  font-weight: bold;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 27px;
+}
+.rectangleLimit {
+  display: flex;
+  flex-direction: row;
+}
+.orders {
+  // margin-left: 30px;
+  color: #17c981;
+}
+.limit-container {
+  margin: 0 auto;
+}
